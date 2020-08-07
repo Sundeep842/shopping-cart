@@ -1,0 +1,41 @@
+* {
+  margin-left: 10px;
+}
+.row__posters ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1px;
+  object-fit: contain;
+  overflow-y: hidden;
+  overflow-x: scroll;
+}
+.row__posters ul li {
+  list-style: none;
+  flex: 0 0 20%;
+}
+.row__post {
+  object-fit: contain;
+  max-height: 400px;
+  max-width: 400px;
+  margin-right: 10px;
+  transition: transform 450ms;
+}
+@font-face {
+  font-family: "Metropolis";
+  src: url("./Assets/Fonts/Metropolis/Metropolis-Black.otf") format("opentype");
+}
+.name {
+  font-family: "Metropolis";
+  transition: transform 450ms;
+}
+.name:hover {
+  transform: scale(1.08);
+}
+
+.row__post:hover {
+  transform: scale3d(1.08);
+}
+.li:hover {
+  width: 600px;
+  height: 600px;
+}

@@ -1,0 +1,14 @@
+* {
+  margin-left: 5px;
+  box-sizing: inherit;
+}
+.hl {
+  padding: 20px 20px 57px;
+  border: 1px solid #ffff;
+  contain: content;
+  position: relative;
+  background-color: lawngreen;
+}
+hl:focus {
+  outline: -webkit-focus-ring-color auto 1px;
+}
