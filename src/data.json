@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "_id": "dress1",
+      "image": "/images/dress1.jpg",
+      "title": "Middi sundress with sherry detail",
+      "description": "This is for all latest trends",
+      "available-sizes": ["X", "L", "S", "XXL"],
+      "price": 29.9
+    },
+    {
+      "_id": "dress5",
+      "image": "/images/dress5.jpg",
+      "title": "Middi sundress with sherry detail",
+      "description": "This is for all latest trends",
+      "available-sizes": ["X", "L", "S", "XXL"],
+      "price": 294.9
+    },
+    {
+      "_id": "dress2",
+      "image": "/images/dress2.jpg",
+      "title": "Middi sundress with sherry detail",
+      "description": "This is for all latest trends",
+      "available-sizes": ["X", "L", "S", "XXL"],
+      "price": 9
+    },
+    {
+      "_id": "dress3",
+      "image": "/images/dress3.jpg",
+      "title": "Middi sundress with sherry detail",
+      "description": "This is for all latest trends",
+      "available-sizes": ["X", "L", "S", "XXL"],
+      "price": 2.9
+    },
+    {
+      "_id": "dress4",
+      "image": "/images/dress4.jpg",
+      "title": "Middi sundress with sherry detail",
+      "description": "This is for all latest trends",
+      "available-sizes": ["X", "L", "S", "XXL"],
+      "price": 9.9
+    }
+  ]
+}
